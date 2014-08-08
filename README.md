@@ -1,4 +1,4 @@
-ubuntu_anki_update
+ubuntu_ankiupdate
 ==================
 
 Downloads and updates anki packages automatically
